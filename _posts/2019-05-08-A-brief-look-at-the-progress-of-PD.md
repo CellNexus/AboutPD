@@ -3,7 +3,7 @@ layout: 'post'
 category: 'blog'
 title: "A brief look at the progress of Parkinson’s research in 2018"
 tags: ['Parkinsons disease', 'progress', 'research']
-image: "fail.png"
+image: "2019-05-08/bk.png"
 foreign_url: https://parkinsonquebec.ca/en/parkinson-news/a-brief-look-at-the-progress-of-parkinsons-research-in-2018/
 foreign_logo: "medium.png"
 ---
