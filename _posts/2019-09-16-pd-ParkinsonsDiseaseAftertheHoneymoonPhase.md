@@ -19,7 +19,7 @@ Dr. Montogmery's books and publications</a>.
   <h4></h4>
   <ul></ul>
 </div>
-<iframe width="560" height="315" src="https://youtu.be/7UfvAaitahA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://youtu.be/embed/7UfvAaitahA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 {: .text-center}
 
 
